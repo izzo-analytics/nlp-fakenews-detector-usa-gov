@@ -1,4 +1,5 @@
 # NLP Fake News Detector for Chrome Extension 🕵️‍♂️🇺🇸
+Questo progetto rappresenta il caso studio finale per il modulo di **Natural Language Processing**, realizzato all'interno del mio percorso di **Master Professionale in Data Analytics certificato da ProfessionAI e Alteredu**.
 
 ## 🎯 Visione del Progetto
 In un'epoca segnata dalla disinformazione, questo progetto mira a fornire uno strumento di difesa tecnologica per gli utenti web. Sviluppato con l'obiettivo di essere integrato in un **Plug-in per Google Chrome** per conto del **Governo degli Stati Uniti**, il modello analizza in tempo reale il testo delle notizie per classificarle come "Vere" o "False".
@@ -32,5 +33,6 @@ Il classificatore **SVM** ha raggiunto un'accuratezza del **99%**. Di seguito, l
 * **Fiducia nei media**: Contrasto attivo alla diffusione di notizie non attendibili.
 * **Scalabilità**: Architettura pronta per la messa in produzione lato server.
 
----
-**Analisi e Sviluppo:** Massimiliano Izzo
+--
+**Formazione:** Progetto certificato da **ProfessionAI** e **Alteredu**.
+**Autore:** [Massimiliano Izzo](https://linkedin.com/in/massimilianoizzo) – BI & Data Storytelling Specialist
